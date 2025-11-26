@@ -45,3 +45,20 @@ High-income, low-spending customers
 Low-income, high-spending customers
 
 Low-income, low-spending customers
+
+
+
+#################
+plt.plot(x, y, marker='o')  # line plot
+plt.scatter(x, y)           # scatter plot
+plt.bar(x, y)               # bar chart
+plt.show()
+
+plt.plot() → line plot (default)
+
+plt.scatter() → scatter plot (good for clustering or points)
+
+plt.bar() / plt.barh() → bar chart
+
+plt.hist() → histogram
+
