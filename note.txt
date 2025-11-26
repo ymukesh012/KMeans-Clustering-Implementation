@@ -1,0 +1,47 @@
+Key Steps Implemented
+
+Data loading and inspection
+
+Exploratory Data Analysis (EDA)
+
+Handling missing values & duplicates
+
+Feature selection
+
+Standardization (if needed)
+
+Elbow Method to find optimal K
+
+K-Means clustering
+
+Cluster visualization
+
+
+
+
+
+Dataset Columns
+
+CustomerID
+
+Gender
+
+Age
+
+Annual Income (k$)
+
+Spending Score (1–100)
+
+
+
+Outcome
+
+The algorithm groups customers into distinct clusters such as:
+
+High-income, high-spending customers
+
+High-income, low-spending customers
+
+Low-income, high-spending customers
+
+Low-income, low-spending customers
